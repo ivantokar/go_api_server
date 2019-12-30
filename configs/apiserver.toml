@@ -1,2 +1,5 @@
 bind_addr = ":8080"
 log_level = "debug"
+
+[store]
+database_url = "user=default password=tokar1985 dbname=go_rest_api port=5432 host=192.168.1.15 sslmode=disable"

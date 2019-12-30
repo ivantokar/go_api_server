@@ -4,6 +4,7 @@
 
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 - [Codeship Golang Best Practices](https://github.com/codeship/go-best-practices)
+- [Go database/sql tutorial](http://go-database-sql.org/index.html)
 
 ### Used libs
 
@@ -11,3 +12,4 @@
 - [**logrus**: Structured, pluggable logging for Go.](https://github.com/sirupsen/logrus)
 - [**mux**: A powerful HTTP router and URL matcher for building Go web servers with Gorilla](https://github.com/gorilla/mux)
 - [**testify**: A toolkit with common assertions and mocks that plays nicely with the standard library](https://github.com/stretchr/testify)
+- [**pq**: Pure Go Postgres driver for database/sql](https://github.com/lib/pq)
